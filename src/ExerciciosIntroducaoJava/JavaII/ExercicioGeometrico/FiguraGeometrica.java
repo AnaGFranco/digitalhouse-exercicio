@@ -1,4 +1,4 @@
-package src.JavaII.ExercicioGeometrico;
+package ExerciciosIntroducaoJava.JavaII.ExercicioGeometrico;
 
 public abstract class FiguraGeometrica extends Circulo {
 

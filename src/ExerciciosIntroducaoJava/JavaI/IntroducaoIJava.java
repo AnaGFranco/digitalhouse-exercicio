@@ -1,4 +1,4 @@
-package src.JavaI;
+package ExerciciosIntroducaoJava.JavaI;
 
 import java.text.NumberFormat;
 import java.util.*;

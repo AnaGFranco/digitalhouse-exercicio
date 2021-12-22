@@ -1,4 +1,4 @@
-package src.JavaIII;
+package ExerciciosIntroducaoJava.JavaIII;
 
 public class Celular implements Precedente<Celular> {
 

@@ -1,4 +1,4 @@
-package src.JavaI;
+package ExerciciosIntroducaoJava.JavaI;
 
 import java.util.ArrayList;
 import java.util.List;

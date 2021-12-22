@@ -1,4 +1,4 @@
-package src.JavaIII;
+package ExerciciosIntroducaoJava.JavaIII;
 
 
 import java.util.Arrays;

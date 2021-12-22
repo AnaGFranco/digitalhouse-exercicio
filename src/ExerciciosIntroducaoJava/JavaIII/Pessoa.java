@@ -1,4 +1,4 @@
-package src.JavaIII;
+package ExerciciosIntroducaoJava.JavaIII;
 
 public class Pessoa implements Precedente<Pessoa>{
 

@@ -1,4 +1,4 @@
-package src.JavaII.ExercicioPassword;
+package ExerciciosIntroducaoJava.JavaII.ExercicioPassword;
 
 public class Password {
     private String pwd;

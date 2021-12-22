@@ -1,4 +1,4 @@
-package src.JavaII.ExercicioEstudantes;
+package ExerciciosIntroducaoJava.JavaII.ExercicioEstudantes;
 
 
 import java.time.LocalDate;
